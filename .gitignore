@@ -5,3 +5,6 @@ database.db-shm
 docs.txt
 database.db-wal
 database.db
+
+.vscode/
+lib/sessions
