@@ -7,4 +7,4 @@ database.db-wal
 database.db
 
 .vscode/
-lib/sessions
+lib/session/
